@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello, I'm Thijs 👋
 
-<!--
-**tkeereweer/tkeereweer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate [your role/occupation] with a love for [specific interests or technologies]. I enjoy solving complex problems and creating meaningful solutions. This is my GitHub space where I showcase some of my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** Python, R, SQL, HTML/CSS
+- **Technologies & Tools:** MS Excel, MS PowerPoint
+- **Languages:** Fluent in English, Dutch and French; Conversational in German (B2)
+
+## Projects
+
+### Optimising the redistribution of bikes in a public bike sharing system
+- Description: [Brief description of the project]
+- GitHub Repository: [Link to the GitHub repository]
+- Demo: [Link to the live/demo version if applicable]
+
+### Project 2: [Project Name]
+- Description: [Brief description of the project]
+- GitHub Repository: [Link to the GitHub repository]
+- Demo: [Link to the live/demo version if applicable]
+
+...
+
+## Certifications
+
+- [Certification Name 1] - [Issuing Organization]
+- [Certification Name 2] - [Issuing Organization]
+- ...
+
+## Connect with Me
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/matthijskeereweer/)
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Let's connect and learn together! 🚀
