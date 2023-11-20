@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate [your role/occupation] with a love for [specific interests or technologies]. I enjoy solving complex problems and creating meaningful solutions. This is my GitHub space where I showcase some of my projects.
+- Currently pursuing a Master in Computer Science and Business Technology at IE University
 
 ## Skills
 
