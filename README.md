@@ -31,20 +31,20 @@
 
 ## Projects
 
-### Optimising the redistribution of bikes in a public bike sharing system
+### Application to forecast electricity prices
 
--   **Description:** Built a model to optimise the reallocation of bicycles in a public bike sharing system using Python.
--   **GitHub Repository:** [public-bike-system-optimisation](https://github.com/tkeereweer/public-bike-system-optimisation)
+-   **Description:** This is the final project of my Master in Computer Science and Business Technology which consists of building a time series model to forecast the electricity price and deploying this in an end-to-end application.
+-   **GitHub Repository:** [electricity_price_predictor](https://github.com/tkeereweer/electricity_price_predictor)
 
 ### Application to track stock portfolio performance
 
 -   **Description:** Capstone project of my Master in Computer Science and Business Technology consisting of an application that lets users track their stock portfolio.
 -   **GitHub Repository:** [stock-tracker-app](https://github.com/tkeereweer/stock-tracker-app)
 
-### Application to forecast electricity prices
+### Optimising the redistribution of bikes in a public bike sharing system
 
--   **Description:** This is the final project of my Master in Computer Science and Business Technology which consists of building a time series model to forecast the electricity price and deploying this in an end-to-end application.
--   **GitHub Repository:** [electricity_price_predictor](https://github.com/tkeereweer/electricity_price_predictor)
+-   **Description:** Built a model to optimise the reallocation of bicycles in a public bike sharing system using Python.
+-   **GitHub Repository:** [public-bike-system-optimisation](https://github.com/tkeereweer/public-bike-system-optimisation)
 
 <!--
 ## Certifications
