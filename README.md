@@ -7,13 +7,14 @@
 
 ## Skills
 
-**Programming Languages:**
+**Programming Languages:**<br>
+
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="100" height="50"> &nbsp;
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="50" height="50"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="80" height="50"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"> &nbsp;
 <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt="HTML" width="50" height="50"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50">
 
 **Technologies & Tools:**
 
