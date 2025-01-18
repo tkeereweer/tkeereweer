@@ -3,7 +3,7 @@
 ## About Me
 
 -   Master Graduate in Computer Science and Business Technology at IE University with a concentration in Artificial Intelligence.
--   Passionate about building cool software product and applying Artificial Intelligence to make them better.
+-   Passionate about building cool software products and applying Artificial Intelligence to make them better.
 
 ## Skills
 
